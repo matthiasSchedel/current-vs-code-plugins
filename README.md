@@ -59,9 +59,7 @@
 - **ms-azuretools.vscode-docker:** Provides Docker integration, making it easier to create, manage, and debug containerized applications.
 - **ms-vscode-remote.remote-containers:** Develop inside a container for a consistent development environment.
 - **ms-vscode-remote.remote-ssh:** Enables SSH connections to remote servers for direct code editing.
-- **ms-vscode
-
--remote.remote-wsl:** Integrates Windows Subsystem for Linux (WSL) into VS Code for seamless cross-platform development.
+- **ms-vscode-remote.remote-wsl:** Integrates Windows Subsystem for Linux (WSL) into VS Code for seamless cross-platform development.
 - **ms-vscode.cpptools:** Adds C/C++ language support including debugging, code browsing, and IntelliSense.
 - **ms-vscode.vscode-typescript-tslint-plugin:** Integrates TSLint for TypeScript, providing linting and code style enforcement.
 - **ms-vscode.vscode-typescript-next:** Uses the latest TypeScript version for cutting-edge features and improvements.
